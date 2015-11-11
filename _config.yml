@@ -1,0 +1,23 @@
+name: NoHeads
+favicon: null
+layout_spectrum: 0.4139636114705354
+typography_spectrum: 0.3202598271891475
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8445824354421347
+  lightness: 0.6122147983405739
+  saturation: 0.5908099794760346
+  rhythmicContrast: 0.10290295560844243
+purpose: []
